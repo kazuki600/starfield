@@ -12,3 +12,4 @@ Notes and usage details for starfield.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
